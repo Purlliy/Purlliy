@@ -16,7 +16,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.s
 <img align="center" alt="Csharp" height="40" width="50"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
 </div>
-Sei como funciona componentes semicondutores, sistemas elétricos, sei criar projetos elétricos e  sei eletrônica básica.🧰⚡
+Tenho conheciment em componentes semicondutores, sistemas elétricos, criação projetos elétricos e eletrônica básica.🧰⚡
 
 ----
 
