@@ -21,4 +21,4 @@ Tenho conheciment em componentes semicondutores, sistemas elétricos, criação 
 ----
 
 ## Como me contatar
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-thebadge&logo=gmail&logoColor=white)](mailto: pedrofukassawa@gmail.com) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-thebadge&logo=gmail&logoColor=white)](mailto:pedrofukassawa@gmail.com) 
